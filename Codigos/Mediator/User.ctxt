@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=name
+comment3.target=User(java.lang.String)
+comment4.params=message
+comment4.target=void\ sendMessage(java.lang.String)
+numComments=5

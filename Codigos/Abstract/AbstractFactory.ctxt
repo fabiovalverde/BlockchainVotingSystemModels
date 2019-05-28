@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AbstractFactory
+comment1.params=shapeType
+comment1.target=Shape\ getShape(java.lang.String)
+numComments=2
